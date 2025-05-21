@@ -1,4 +1,4 @@
-## Short description
+## short description
 
 Post-doc researcher in the field of neutrino physics, specialized in developping embedded systems for high precision optoelectronic characterizations.
 
