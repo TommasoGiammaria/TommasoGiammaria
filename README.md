@@ -6,7 +6,7 @@ Post-doc researcher in the field of neutrino physics, specialized in developping
 
 I want to share as public repositories all the projects that I develop in my spare time for personal interest.
 
-This profile also contain some of my job-related projects (making public the ones compatible with open source distribution)
+This profile also contain some of my job related projects (making public the ones compatible with open source distribution)
 
 ## additional info
 Coding languages: 
