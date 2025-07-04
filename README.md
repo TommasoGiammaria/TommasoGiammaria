@@ -1,6 +1,6 @@
 ## Short description
 
-Post-doc researcher in the field of neutrino physics, specialized in developping embedded systems for high precision opto-electronic characterizations.
+Post-doctoral researcher in the field of neutrino physics, specialized in developping embedded systems for high precision opto-electronic characterizations.
 
 ## Why this profile
 
